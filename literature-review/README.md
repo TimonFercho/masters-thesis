@@ -2,49 +2,49 @@
 
 ## Introduction
 
-<!-- - Overview of the literature review -->
+<!-- Overview of the literature review -->
 
-<!-- - Purpose and objectives of the review -->
+<!-- Purpose and objectives of the review -->
 
 ## Research Questions
 
-<!-- - List of research questions to be addressed -->
+<!-- List of research questions to be addressed -->
 
 ## Methodology
 
-<!-- - Explanation of the research methodology used for the literature review -->
+<!-- Explanation of the research methodology used for the literature review -->
 
-<!-- - Inclusion and exclusion criteria for selecting relevant literature -->
+<!-- Inclusion and exclusion criteria for selecting relevant literature -->
 
 ## Search Strategy
 
-<!-- - Description of the search strategy used to identify relevant sources -->
+<!-- Description of the search strategy used to identify relevant sources -->
 
-<!-- - Databases and search terms used -->
+<!-- Databases and search terms used -->
 
 ## Literature Synthesis
 
-<!-- - Summary and analysis of the key findings from the literature -->
+<!-- Summary and analysis of the key findings from the literature -->
 
-<!-- - Identification of themes and patterns -->
+<!-- Identification of themes and patterns -->
 
 ## Critical Evaluation
 
-<!-- - Evaluation of the quality and reliability of the literature -->
+<!-- Evaluation of the quality and reliability of the literature -->
 
-<!-- - Discussion of any limitations or biases in the literature -->
+<!-- Discussion of any limitations or biases in the literature -->
 
 ## Gaps and Future Directions
 
-<!-- - Identification of gaps in the existing literature -->
+<!-- Identification of gaps in the existing literature -->
 
-<!-- - Suggestions for future research directions -->
+<!-- Suggestions for future research directions -->
 
 ## Conclusion
 
-<!-- - Summary of the main findings from the literature review -->
+<!-- Summary of the main findings from the literature review -->
 
-<!-- - Implications for the research project -->
+<!-- Implications for the research project -->
 
 ## References
 
