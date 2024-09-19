@@ -3,12 +3,20 @@
 ## Introduction
 
 <!-- Overview of the literature review -->
+Large Language Models (LLMs) have been attracting much attention in recent years due to their remarkable performance in various natural language processing (NLP) and reasoning tasks [Zhao '23, GPTo1 strawberry]. To achieve ever-greater performance, LLMs have been growing in size, typically boasting a few billion [P. Zhang '24] to hundreds of billions of parameters [Dubey '24]. A core value of LLMs lies in their ability to digest and reason over vast amounts of data in the form of large text documents and multi-modal data such as images, audio or videos [?]. Therefore, more recently, model context length has been increasing rapidly to enable these tasks, and now range from a few thousands to millions of tokens [Hooper '24, Gemini Pro]. However, extreme context length put a significant strain on the memory and compute resources during inference. For instance, studies have shown [?] that for large input lengths, KV cache size dominates the total GPU memory consumption, especially when using model compression techniques [Yuan '24]. [example for cache size in GB for large model, see Hooper '24]. Therefore, there has been great interest in the research community to explore techniques for optimizing the bottlenecks arising from the attention operator and KV cache in long context scenarios.
 
 <!-- Purpose and objectives of the review -->
+We aim to investigate the feasibility of FPGA-based accelerators for efficient and low-latency retrieval tasks in LLM inference. We will review the existing literature on efficient LLM inference, FPGA-based LLM acceleration, and KV cache optimization to identify the primary causes of inefficient LLM inference, key advancements in efficient LLM inference techniques, and the challenges and opportunities in FPGA-based LLM acceleration. Our main focus lies in exploring the potential of enabling both fast and accurate long-context LLM generation through KV cache optimizations such as offloading and compression, and the utilization of FPGA-based accelerators to address the limitations of existing techniques.
 
 ## Research Questions
 
 <!-- List of research questions to be addressed -->
+The research questions to be addressed include:
+1. What are the primary causes of inefficient LLM inference?
+2. What are the key advancements in efficient LLM inference techniques?
+3. What are the challenges and opportunities in FPGA-based LLM acceleration?
+4. What are the key optimization techniques for KV cache in LLMs?
+5. How can FPGA-based accelerators be utilized to optimize KV cache in LLMs?
 
 ## Methodology
 
