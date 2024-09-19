@@ -11,12 +11,14 @@ We aim to investigate the feasibility of FPGA-based accelerators for efficient a
 ## Research Questions
 
 <!-- List of research questions to be addressed -->
-The research questions to be addressed include:
-1. What are the primary causes of inefficient LLM inference?
-2. What are the key advancements in efficient LLM inference techniques?
-3. What are the challenges and opportunities in FPGA-based LLM acceleration?
-4. What are the key optimization techniques for KV cache in LLMs?
-5. How can FPGA-based accelerators be utilized to optimize KV cache in LLMs?
+The research questions to be addressed are:
+1.	What are the primary factors contributing to inefficiencies in LLM inference?
+2.	What recent advancements have been made in improving the efficiency of LLM inference?
+3.	How do long context lengths impact LLM inference performance, particularly in terms of memory and computational efficiency?
+4.	What strategies are available to optimize the attention mechanism in LLMs with long context lengths?
+5.	How are FPGAs being used to accelerate machine learning inference, particularly for LLM inference?
+6.	What are the challenges and opportunities in FPGA-based acceleration of LLM inference?
+7.	What are the key techniques for optimizing KV cache size and management in LLMs to reduce memory consumption?
 
 ## Methodology
 
