@@ -43,11 +43,12 @@
 | H. Zhang '24 | [PQCache: Product Quantization-based KVCache for Long Context LLM Inference](https://arxiv.org/pdf/2407.12820) | ![An overview of PQCache. For simplicity, we only illustrate the process for a single transformer layer.](figs/Zhang-24_1.png)[PQCache is proposed, which employs Product Quantization (PQ) to manage KVCache, maintaining model quality while ensuring low serving latency, and achieves both effectiveness and efficiency.](https://www.semanticscholar.org/paper/PQCache%3A-Product-Quantization-based-KVCache-for-LLM-Zhang-Ji/022f386eb66fc5532dd6f439e7a356fd33ebb9a2#related-papers) |
 
 
-### FPGA-based ANN Acceleration
+### ANNS and FPGA-based Acceleration
 | Authors | Title | Summary |
 | --- | --- | --- |
 | Jiang '21 | [FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters](https://dl.acm.org/doi/10.1145/3447548.3467139) | ![](figs/Jiang-21_1.png)[Experiments on three production models show that FleetRec outperforms optimized CPU baseline by more than one order of magnitude in terms of throughput while achieving significantly lower latency.](https://www.semanticscholar.org/paper/FleetRec%3A-Large-Scale-Recommendation-Inference-on-Jiang-He/4db7ab28050b38bcacdb4736f987cd5b23a65a67) |
 | Jiang '23 | [Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models](https://arxiv.org/pdf/2310.09949.pdf) | ![Chameleon is a heterogeneous and disaggregated CPU, GPU, and FPGA system for high-performance and efficient RALM inference.](figs/Jiang-23_1.png)[This work proposes Chameleon, a heterogeneous accelerator system that integrates both LM and retrieval accelerators in a disaggregated architecture, and demonstrates promising results, paving the way for bringing accelerator heterogeneity and disaggregation into future RALM systems.](https://www.semanticscholar.org/paper/Chameleon%3A-a-Heterogeneous-and-Disaggregated-System-Jiang-Zeller/f163042aadc800489516f86475165543a62c88b1#citing-papers) |
+| Baranchuk '18 | [Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors](https://arxiv.org/pdf/1802.02422.pdf) | ![](figs/Baranchuk-18_1.png)[It is argued that the potential of the simple inverted index was not fully exploited in previous works and advocate its usage both for the highly-entangled deep descriptors and relatively disentangled SIFT descriptors.](https://www.semanticscholar.org/paper/Revisiting-the-Inverted-Indices-for-Billion-Scale-Baranchuk-Babenko/08e9af046df3e3b1f7eae72d08e2b5d22e0918ea) |
 
 
 ### LLMs (Other)
